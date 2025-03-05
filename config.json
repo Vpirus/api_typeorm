@@ -1,0 +1,9 @@
+{
+    "database": {
+        "localhost": "localhost",
+        "port":3306,
+        "user": "root",
+        "password": "Villarino#26",
+        "database": "node_mysql_crud_api"
+    }
+}
